@@ -102,7 +102,7 @@ public class FollowPath : MonoBehaviour
     // check if close enough to the waypoint
     bool HasReachedWaypoint()
     {
-        float tolerance = 0.1f;
+        float tolerance = 0.5f;
 
         float distanceToWaypoint = Vector3.Distance(transform.position, nextWaypoint.position);
 
