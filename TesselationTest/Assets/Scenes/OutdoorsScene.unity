@@ -1145,11 +1145,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1679949767725393671, guid: df620ad71050e7a45aaf4a10d75d8574, type: 3}
       propertyPath: rows
-      value: 3
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 1679949767725393671, guid: df620ad71050e7a45aaf4a10d75d8574, type: 3}
       propertyPath: columns
-      value: 3
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 1679949767725393671, guid: df620ad71050e7a45aaf4a10d75d8574, type: 3}
       propertyPath: debugLines
