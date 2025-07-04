@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 780.8
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 321}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 80
+  controlID: 346
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 81
+  controlID: 263
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 82
+  controlID: 264
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -303,7 +303,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 172
+  controlID: 347
   draggingID: 0
 --- !u!114 &13
 MonoBehaviour:
@@ -378,8 +378,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 935.2
-    y: 79.200005
+    x: 936.2
+    y: 24
     width: 169.99994
     height: 458
   m_SerializedDataModeController:
@@ -409,7 +409,7 @@ MonoBehaviour:
   m_UseMipMap: 0
   m_VSyncEnabled: 0
   m_Gizmos: 0
-  m_Stats: 1
+  m_Stats: 0
   m_SelectedSizes: 0300000000000000000000000f000000000000000000000000000000000000000000000000000000
   m_ZoomArea:
     m_HRangeLocked: 0
@@ -453,7 +453,7 @@ MonoBehaviour:
       height: 437
     m_MinimalGUI: 1
   m_defaultScale: 0.11067704
-  m_LastWindowPixelSize: {x: 212.49992, y: 572.5}
+  m_LastWindowPixelSize: {x: 169.99994, y: 458}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -482,7 +482,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79.200005
+    y: 24
     width: 347
     height: 458
   m_SerializedDataModeController:
@@ -501,7 +501,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 20fbffff22fbfffff4ffffffa05d0200
+      m_ExpandedIDs: 22fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -547,8 +547,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 348
-    y: 79.200005
+    x: 349
+    y: 24
     width: 585.2
     height: 458
   m_SerializedDataModeController:
@@ -1141,7 +1141,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.6421447, y: -0.030628975, z: 0.024452634, w: -0.76668}
     speed: 2
-    m_Value: {x: -0.6416046, y: -0.030603215, z: 0.024432069, w: -0.7660352}
+    m_Value: {x: -0.6421446, y: -0.030628974, z: 0.024452632, w: -0.76668}
   m_Size:
     m_Target: 91.64758
     speed: 2
@@ -1201,7 +1201,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 563.2
+    y: 508
     width: 1106.2
     height: 214.79999
   m_SerializedDataModeController:
@@ -1226,7 +1226,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/walls/Models
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1236,16 +1236,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 69
   m_LastFolders:
-  - Assets/Prefabs/walls/Models
+  - Assets
   m_LastFoldersGridSize: 69
   m_LastProjectPath: D:\Code\Year 2\TesselationTesting\TesselationTest
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 29.200012}
-    m_SelectedIDs: 68790800
-    m_LastClickedID: 555368
-    m_ExpandedIDs: 00000000527908005e7908006a79080000ca9a3b
+    m_SelectedIDs: 92e00200
+    m_LastClickedID: 188562
+    m_ExpandedIDs: 0000000092e00200
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1274,7 +1274,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000052790800
+    m_ExpandedIDs: 0000000092e00200
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1389,8 +1389,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1107.2001
-    y: 79.200005
+    x: 1
+    y: 24
     width: 427.80005
     height: 649.2
   m_SerializedDataModeController:
@@ -1438,8 +1438,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Background Tasks\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1107.2001
-    y: 754.4
+    x: 1
+    y: 699.2
     width: 427.80005
     height: 23.599976
   m_SerializedDataModeController:
